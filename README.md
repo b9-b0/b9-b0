@@ -1,64 +1,109 @@
-const aboutMe = {
-  name: "Hassan ZK",   // الاسم
-  role: "Network Engineer & Cybersecurity Specialist",   // الدور الوظيفي
-  languages: [
-    "Python",          // لغة البرمجة الأساسية لأتمتة العمليات وكتابة السكربتات
-    "C++",             // استخدامات في الروبوتات والخوارزميات
-    "Bash",            // سكربتات لينوكس لأتمتة العمليات وإدارة الخوادم
-    "Linux Scripting"  // سكربتات شيل لإدارة السيرفرات وأتمتة المهام
-  ],
-  passions: [
-    "Networking",      // شغف بناء الشبكات الآمنة
-    "Cybersecurity",   // حماية الأنظمة والشبكات من الهجمات
-    "IoT",             // التكامل مع الأجهزة الذكية والتقنيات الحديثة
-    "Linux",           // الخبرة العميقة في إدارة أنظمة لينوكس
-    "Automation",      // استخدام السكربتات لأتمتة العمليات والمهام
-    "Algorithms"       // تحسين الخوارزميات وحل المشاكل بشكل أكثر فعالية
-  ],
-  currentFocus: "Building secure, scalable, and intelligent network systems with a strong emphasis on automation and cybersecurity.",
-  funFact: "I can configure a network faster than I can make coffee ☕"
-};
+<h1 align="center">👨‍💻 Hassan ZK</h1>
+<h3 align="center">Network Engineer | Cybersecurity Specialist | IoT Developer</h3>
 
-// Tech Stack
-const techStack = {
-  languages: ["Python", "C++", "Bash", "Linux Scripting"],
+<p align="center">
+  <em>Building secure, automated, and intelligent network ecosystems ⚙️</em>
+</p>
 
-  technologies: {
-    networking: ["Cisco", "MikroTik"],
-    cybersecurity: ["Pen Testing", "Ethical Hacking"],
-    IoT: ["Arduino", "ESP32"],
-    linux: ["System Admin", "Scripting"]
-  },
+---
 
-  tools: ["Wireshark", "Nmap", "Metasploit", "Kali Linux", "Cisco Packet Tracer", "GNS3"]
-};
+### 🧠 About Me
+<p align="center">
+  Passionate about designing robust network infrastructures, securing systems against cyber threats, and automating processes through scripting and IoT integration.  
+  Combining deep technical knowledge with creative problem-solving to build efficient, scalable, and secure environments.
+</p>
 
-// Languages Usage Breakdown
-const languageUsage = {
-  Python: "45%",
-  CPlusPlus: "25%",
-  ShellLinuxScripts: "15%",
-  IoTProjects: "10%",
-  Other: "5%"
-};
+---
 
-// Editor Preferences
-const editorPreferences = {
-  VSCode: "80%",
-  PyCharm: "15%",
-  LinuxTerminal: "5%"
-};
+### 🛠️ Tech Stack
 
-// Current Focus Areas
-const currentFocusAreas = {
-  Networking: "Building secure, optimized network infrastructures for companies.",
-  Cybersecurity: "Conducting penetration tests and security audits to safeguard data.",
-  IoT: "Developing smart solutions with microcontrollers like Arduino, ESP32.",
-  Linux: "Administering Linux servers, automating workflows using Bash and Python."
-};
+#### **Languages & Frameworks:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C++-Master-orange?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Bash-Script-5e5e5e?style=for-the-badge&logo=gnubash" />
+  <img src="https://img.shields.io/badge/Linux-Lover-green?style=for-the-badge&logo=linux" />
+</p>
 
-// Goal
-const goal = "To continue learning and growing as a Network Engineer, Cybersecurity Specialist, and IoT Developer. Striving for excellence in automating processes, securing systems, and creating innovative solutions for the future.";
+#### **Technologies:**
+- 🌐 **Networking** (Cisco, MikroTik, GNS3, Packet Tracer)
+- 🛡️ **Cybersecurity** (Pen Testing, Ethical Hacking, Threat Analysis, Incident Response)
+- 🔌 **IoT** (Arduino, ESP32, MQTT, Node-RED)
+- 🐧 **Linux** (System Administration, Shell Scripting, Automation)
 
-// Fun Fact
-const funFact = "I can configure a network faster than I can make coffee ☕";
+#### **Tools & Software:**
+- 🛠️ **Wireshark**, **Nmap**, **Metasploit**, **Kali Linux**, **Cisco Packet Tracer**, **GNS3**, **Snort**, **Burp Suite**
+
+---
+
+### 📊 Language Usage Breakdown
+
+| Language              | Usage |
+|-----------------------|-------|
+| 🐍 **Python**          | 45%   |
+| 💻 **C++**            | 25%   |
+| 🐚 **Shell / Linux Scripts** | 15%   |
+| 🌐 **IoT Projects**   | 10%   |
+| ⚙️ **Other**          | 5%    |
+
+---
+
+### 🖥️ Editor Preferences
+
+| Editor               | Usage |
+|----------------------|-------|
+| 🧩 **VS Code**        | ██████████████████████ 80% |
+| 🐍 **PyCharm**        | ██████░░░░░░░░░░░░░░░ 15% |
+| 🐧 **Linux Terminal** | ██░░░░░░░░░░░░░░░░░░░ 5% |
+
+---
+
+### 🚀 Current Focus
+
+- 🛰️ **Networking**: Building secure, optimized network infrastructures for enterprises.  
+- 🛡️ **Cybersecurity**: Conducting penetration testing & security audits.  
+- 🤖 **IoT**: Developing smart solutions using Arduino & ESP32.  
+- 🐧 **Linux**: Automating workflows & server management with Bash & Python.
+
+---
+
+### 🎯 Professional Goal
+
+<p align="center">
+  To continuously grow as a **Network Engineer**, **Cybersecurity Specialist**, and **IoT Developer** —  
+  mastering the intersection between **automation**, **security**, and **innovation**.  
+  Striving for **excellence**, **precision**, and **impact** in the digital world.
+</p>
+
+---
+
+### 🎉 Fun Fact
+
+<p align="center">
+  <strong>"I can configure a network faster than I can make coffee ☕"</strong>
+</p>
+
+---
+
+### 🏆 Achievements & Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-Expert-blue?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Specialist-red?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/Linux-Lover-green?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/IoT-Innovator-orange?style=for-the-badge&logo=arduino" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HassanZK&show_icons=true&count_private=true&hide=prs&hide_title=true&bg_color=2d3436&text_color=fff&icon_color=2e88ff" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanZK&langs_count=10&layout=compact&bg_color=2d3436&text_color=fff&icon_color=ffdf00&title_color=2e88ff" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Securing tomorrow’s networks, one packet at a time.”</i>
+</p>
