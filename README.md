@@ -1,96 +1,64 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Hassan ZK <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-
-
-
-<p><em>Network Engineer | Cybersecurity Specialist | IoT Developer | Linux Enthusiast | FLL Competitor</em></p>
-
-
----
-
-### 👨‍💻 About Me  
-
-```javascript
 const aboutMe = {
-  name: "Hassan ZK",   // Replace with your name
-  role: "Network Engineer & Cybersecurity Specialist",   // Your primary role
+  name: "Hassan ZK",   // الاسم
+  role: "Network Engineer & Cybersecurity Specialist",   // الدور الوظيفي
   languages: [
-    "Python",          // Primary language for automation & scripting
-    "C++",             // Used for Robotics, Algorithms
-    "Bash",            // Linux scripting for process automation
-    "Linux Scripting"  // Shell scripts to manage servers and automate tasks
+    "Python",          // لغة البرمجة الأساسية لأتمتة العمليات وكتابة السكربتات
+    "C++",             // استخدامات في الروبوتات والخوارزميات
+    "Bash",            // سكربتات لينوكس لأتمتة العمليات وإدارة الخوادم
+    "Linux Scripting"  // سكربتات شيل لإدارة السيرفرات وأتمتة المهام
   ],
   passions: [
-    "Networking",      // Passionate about building secure networks
-    "Cybersecurity",   // Dedicated to protecting systems and networks
-    "IoT",             // Enthusiastic about smart device integration
-    "Linux",           // Deeply experienced in Linux system administration
-    "Automation",      // Using scripts to automate tasks and processes
-    "Algorithms"       // Always optimizing and improving problem-solving approaches
+    "Networking",      // شغف بناء الشبكات الآمنة
+    "Cybersecurity",   // حماية الأنظمة والشبكات من الهجمات
+    "IoT",             // التكامل مع الأجهزة الذكية والتقنيات الحديثة
+    "Linux",           // الخبرة العميقة في إدارة أنظمة لينوكس
+    "Automation",      // استخدام السكربتات لأتمتة العمليات والمهام
+    "Algorithms"       // تحسين الخوارزميات وحل المشاكل بشكل أكثر فعالية
   ],
-  currentFocus: "Building secure, scalable, and intelligent network systems with a focus on automation and cybersecurity.",
+  currentFocus: "Building secure, scalable, and intelligent network systems with a strong emphasis on automation and cybersecurity.",
   funFact: "I can configure a network faster than I can make coffee ☕"
 };
 
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████
+// Tech Stack
+const techStack = {
+  languages: ["Python", "C++", "Bash", "Linux Scripting"],
 
-🔧 Tech Stack
+  technologies: {
+    networking: ["Cisco", "MikroTik"],
+    cybersecurity: ["Pen Testing", "Ethical Hacking"],
+    IoT: ["Arduino", "ESP32"],
+    linux: ["System Admin", "Scripting"]
+  },
 
-Languages: Python, C++, Bash, Linux Scripting
+  tools: ["Wireshark", "Nmap", "Metasploit", "Kali Linux", "Cisco Packet Tracer", "GNS3"]
+};
 
-Technologies: Networking (Cisco, MikroTik), Cybersecurity (Pen Testing, Ethical Hacking), IoT (Arduino, ESP32), Linux
+// Languages Usage Breakdown
+const languageUsage = {
+  Python: "45%",
+  CPlusPlus: "25%",
+  ShellLinuxScripts: "15%",
+  IoTProjects: "10%",
+  Other: "5%"
+};
 
-(System Admin, Scripting)
+// Editor Preferences
+const editorPreferences = {
+  VSCode: "80%",
+  PyCharm: "15%",
+  LinuxTerminal: "5%"
+};
 
-Tools: Wireshark, Nmap, Metasploit, Kali Linux, Cisco Packet Tracer, GNS3
+// Current Focus Areas
+const currentFocusAreas = {
+  Networking: "Building secure, optimized network infrastructures for companies.",
+  Cybersecurity: "Conducting penetration tests and security audits to safeguard data.",
+  IoT: "Developing smart solutions with microcontrollers like Arduino, ESP32.",
+  Linux: "Administering Linux servers, automating workflows using Bash and Python."
+};
 
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████
+// Goal
+const goal = "To continue learning and growing as a Network Engineer, Cybersecurity Specialist, and IoT Developer. Striving for excellence in automating processes, securing systems, and creating innovative solutions for the future.";
 
-📊 Languages Breakdown
-
-Languages Used:
-
-Python: 45%
-
-C++: 25%
-
-Shell / Linux Scripts: 15%
-
-IoT Projects: 10%
-
-Other: 5%
-
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████
-
-🖥️ Editor Preferences
-
-VS Code: ██████████████████████ 80%
-
-PyCharm: ██████░░░░░░░░░░░░░░░ 15%
-
-Linux Terminal: ██░░░░░░░░░░░░░░░░░░░ 5%
-
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████
-
-🚀 Current Focus
-
-Networking: Building secure, optimized network infrastructures for companies.
-
-Cybersecurity: Conducting penetration tests and security audits to safeguard data.
-
-IoT: Developing smart solutions with microcontrollers like Arduino, ESP32.
-
-Linux: Administering Linux servers, automating workflows using Bash and Python.
-
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████
-
-🎯 Goal
-
-To continue learning and growing as a Network Engineer, Cybersecurity Specialist, and IoT Developer.
-
-Striving for excellence in automating processes, securing systems, and creating innovative solutions for the future.
-
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████
-
-🎉 Fun Fact
-
-"I can configure a network faster than I can make coffee ☕"
+// Fun Fact
+const funFact = "I can configure a network faster than I can make coffee ☕";
