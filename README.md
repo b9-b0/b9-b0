@@ -26,13 +26,21 @@
 </p>
 
 #### **Technologies:**
-- 🌐 **Networking** (Cisco, MikroTik, GNS3, Packet Tracer)
-- 🛡️ **Cybersecurity** (Pen Testing, Ethical Hacking, Threat Analysis, Incident Response)
-- 🔌 **IoT** (Arduino, ESP32, MQTT, Node-RED)
-- 🐧 **Linux** (System Administration, Shell Scripting, Automation)
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-Expert-blue?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Specialist-red?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/IoT-Innovator-orange?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/Linux-Lover-green?style=for-the-badge&logo=linux" />
+</p>
 
 #### **Tools & Software:**
-- 🛠️ **Wireshark**, **Nmap**, **Metasploit**, **Kali Linux**, **Cisco Packet Tracer**, **GNS3**, **Snort**, **Burp Suite**
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-Analyzer-blue?style=for-the-badge&logo=wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-Scanner-green?style=for-the-badge&logo=nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-Framework-red?style=for-the-badge&logo=metasploit" />
+  <img src="https://img.shields.io/badge/Kali_Linux-OS-black?style=for-the-badge&logo=kali-linux" />
+  <img src="https://img.shields.io/badge/GNS3-Simulator-blue?style=for-the-badge&logo=gns3" />
+</p>
 
 ---
 
