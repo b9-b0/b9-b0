@@ -31,3 +31,16 @@ const aboutMe = {
   currentFocus: "Building secure, scalable, and intelligent network systems with a focus on automation and cybersecurity.",
   funFact: "I can configure a network faster than I can make coffee ☕"
 };
+
+
+
+
+🖥️ Editor Preferences
+
+VS Code: ██████████████████████ 80%
+
+
+PyCharm: ██████░░░░░░░░░░░░░░░ 15%
+
+
+Linux Terminal: ██░░░░░░░░░░░░░░░░░░░ 5%
