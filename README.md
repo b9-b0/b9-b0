@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm [Your Name] <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Hassan ZK <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 <img align="right" alt="Coding" width="260" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
@@ -12,7 +12,7 @@
 
 ```javascript
 const aboutMe = {
-  name: "[Your Name]",   // Replace with your name
+  name: "Hassan ZK",   // Replace with your name
   role: "Network Engineer & Cybersecurity Specialist",   // Your primary role
   languages: [
     "Python",          // Primary language for automation & scripting
