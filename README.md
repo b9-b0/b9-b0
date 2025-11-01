@@ -10,21 +10,24 @@
 
 ### 👨‍💻 About Me  
 
-const me = {
-  name: "[Hassan ZK]",
-  role: "Network Engineer & Cybersecurity Specialist",
-  languages: ["Python", "C++", "Bash", "Linux Scripting"],
-  passions: ["Networking", "Cybersecurity", "IoT", "Linux", "Automation", "Algorithms"],
-  currentFocus: "Building secure, scalable, and intelligent network systems",
+```javascript
+const aboutMe = {
+  name: "[Hassan]",   // Replace with your name
+  role: "Network Engineer & Cybersecurity Specialist",   // Your primary role
+  languages: [
+    "Python",          // Primary language for automation & scripting
+    "C++",             // Used for Robotics, Algorithms
+    "Bash",            // Linux scripting for process automation
+    "Linux Scripting"  // Shell scripts to manage servers and automate tasks
+  ],
+  passions: [
+    "Networking",      // Passionate about building secure networks
+    "Cybersecurity",   // Dedicated to protecting systems and networks
+    "IoT",             // Enthusiastic about smart device integration
+    "Linux",           // Deeply experienced in Linux system administration
+    "Automation",      // Using scripts to automate tasks and processes
+    "Algorithms"       // Always optimizing and improving problem-solving approaches
+  ],
+  currentFocus: "Building secure, scalable, and intelligent network systems with a focus on automation and cybersecurity.",
   funFact: "I can configure a network faster than I can make coffee ☕"
-};
-
-
-
-const skills = {
-    networkEngineering: ["Network Design", "VPN Setup", "Firewall Configuration", "Network Troubleshooting"],
-    cybersecurity: ["Cybersecurity Engineering", "Penetration Testing", "Incident Response", "Identity and Access Management (IAM)"],
-    programming: ["Python", "C++", "Linux Scripting", "Algorithms", "IoT Development"],
-    competitions: ["FIRST LEGO League (FLL)", "Robotics Competitions"],
-    tools: ["Wireshark", "Metasploit", "Nmap", "Burp Suite", "Kali Linux"],
 };
