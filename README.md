@@ -12,7 +12,7 @@
 
 ```javascript
 const aboutMe = {
-  name: "[Hassan ZK]",   // Replace with your name
+  name: "[Your Name]",   // Replace with your name
   role: "Network Engineer & Cybersecurity Specialist",   // Your primary role
   languages: [
     "Python",          // Primary language for automation & scripting
@@ -32,15 +32,66 @@ const aboutMe = {
   funFact: "I can configure a network faster than I can make coffee ☕"
 };
 
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
+🔧 Tech Stack
 
+Languages: Python, C++, Bash, Linux Scripting
+
+Technologies: Networking (Cisco, MikroTik), Cybersecurity (Pen Testing, Ethical Hacking), IoT (Arduino, ESP32), Linux
+
+(System Admin, Scripting)
+
+Tools: Wireshark, Nmap, Metasploit, Kali Linux, Cisco Packet Tracer, GNS3
+
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+📊 Languages Breakdown
+
+Languages Used:
+
+Python: 45%
+
+C++: 25%
+
+Shell / Linux Scripts: 15%
+
+IoT Projects: 10%
+
+Other: 5%
+
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████
 
 🖥️ Editor Preferences
 
 VS Code: ██████████████████████ 80%
 
-
 PyCharm: ██████░░░░░░░░░░░░░░░ 15%
 
-
 Linux Terminal: ██░░░░░░░░░░░░░░░░░░░ 5%
+
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+🚀 Current Focus
+
+Networking: Building secure, optimized network infrastructures for companies.
+
+Cybersecurity: Conducting penetration tests and security audits to safeguard data.
+
+IoT: Developing smart solutions with microcontrollers like Arduino, ESP32.
+
+Linux: Administering Linux servers, automating workflows using Bash and Python.
+
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+🎯 Goal
+
+To continue learning and growing as a Network Engineer, Cybersecurity Specialist, and IoT Developer.
+
+Striving for excellence in automating processes, securing systems, and creating innovative solutions for the future.
+
+██████████████████████████████████████████████████████████████████████████████████████████████████████████████
+
+🎉 Fun Fact
+
+"I can configure a network faster than I can make coffee ☕"
