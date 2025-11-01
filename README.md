@@ -12,7 +12,7 @@
 
 ```javascript
 const aboutMe = {
-  name: "[Hassan]",   // Replace with your name
+  name: "[Hassan ZK]",   // Replace with your name
   role: "Network Engineer & Cybersecurity Specialist",   // Your primary role
   languages: [
     "Python",          // Primary language for automation & scripting
